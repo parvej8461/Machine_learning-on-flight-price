@@ -1,1 +1,4 @@
-# Machine_learning-on-flight-price
+# Machine_learning-on-flight-price                                                                
+Airline ticket prices are subject to various factors such as airline, source, destination, route, departure time, arrival time, duration, stops, and additional information. This project utilizes a machine learning model, specifically the Random Forest Regressor, to predict flight prices based on these features. The trained model can help users estimate flight costs and make informed decisions when planning their travel. Moreover, this project offers several analyses on the flight price dataset, uncovering insights and patterns that may assist in understanding the factors influencing ticket prices. 
+## Contributing
+Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please submit an issue or pull request.                                                                
